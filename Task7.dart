@@ -1,5 +1,3 @@
-import 'dart:math';
-
 extension FindSQRT on num {
   double? findSQRT(int power) {
     double x = 1;
